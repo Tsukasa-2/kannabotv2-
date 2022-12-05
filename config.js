@@ -51,30 +51,30 @@ global.sdc = " "
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085334930628'
-global.povo = '085712420674'
+global.pdana = '08818613893'
+global.povo = '085225707546'
 global.pgopay = '085712420674'
-global.ppulsa = '085334930628'
-global.ppulsa2 = '081336990781'
+global.ppulsa = '08818613893'
+global.ppulsa2 = '085225707546'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281336990781'
-global.nomorown = '6285334930628'
-global.namebot = 'Kanna BOT'
-global.nameown = 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ'
+global.nomorbot = '6285803331218'
+global.nomorown = '628818613893'
+global.namebot = 'Tsukasa BOT'
+global.nameown = 'owner-Tsukasa'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285334930628'],
-  ['6285334930628'],
-  ['18126338970'],
-  ['6285334930628', 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ', true]
+  ['628818613893'],
+  ['628818613893'],
+  ['628818613893'],
+  ['628818613893', 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = [628818613893] // Want some help?
+global.prems = [628818613893] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
